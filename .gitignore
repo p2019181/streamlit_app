@@ -1,0 +1,13 @@
+# Αγνόησε venv
+venv/
+erg/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.DS_Store
+# Streamlit και Docker
+*.log
+*.tmp

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+erg/
+venv/
+.git
