@@ -35,7 +35,7 @@
 ### Βήματα:
 
 1. Κατεβάστε το φάκελο `streamlit_app` από το GitHub:  
-   👉 [GitHub Σύνδεσμος](<συμπλήρωσε εδώ το link>)
+   👉 [GitHub Σύνδεσμος](<https://github.com/p2019181/streamlit_app.git>)
 
 2. Ανοίξτε το **Docker Desktop**.
 
